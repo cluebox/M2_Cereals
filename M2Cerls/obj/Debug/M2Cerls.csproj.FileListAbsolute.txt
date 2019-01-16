@@ -1,0 +1,32 @@
+E:\Clue-Box Work\V.Studio\M2Cerls\M2Cerls\bin\Debug\M2Cerls.exe.config
+E:\Clue-Box Work\V.Studio\M2Cerls\M2Cerls\bin\Debug\M2Cerls.exe
+E:\Clue-Box Work\V.Studio\M2Cerls\M2Cerls\bin\Debug\M2Cerls.pdb
+E:\Clue-Box Work\V.Studio\M2Cerls\M2Cerls\bin\Debug\SpssLib.dll
+E:\Clue-Box Work\V.Studio\M2Cerls\M2Cerls\bin\Debug\SpssLib.xml
+E:\Clue-Box Work\V.Studio\M2Cerls\M2Cerls\obj\Debug\M2Cerls.csprojResolveAssemblyReference.cache
+E:\Clue-Box Work\V.Studio\M2Cerls\M2Cerls\obj\Debug\M2Cerls.exe
+E:\Clue-Box Work\V.Studio\M2Cerls\M2Cerls\obj\Debug\M2Cerls.pdb
+E:\Clue-Box Work\V.Studio\M2CerlsParsing\M2Cerls\bin\Debug\M2Cerls.exe.config
+E:\Clue-Box Work\V.Studio\M2CerlsParsing\M2Cerls\obj\Debug\M2Cerls.exe
+E:\Clue-Box Work\V.Studio\M2CerlsParsing\M2Cerls\obj\Debug\M2Cerls.pdb
+E:\Clue-Box Work\V.Studio\M2CerlsParsing\M2Cerls\bin\Debug\M2Cerls.exe
+E:\Clue-Box Work\V.Studio\M2CerlsParsing\M2Cerls\bin\Debug\M2Cerls.pdb
+E:\Clue-Box Work\V.Studio\M2CerlsParsing\M2Cerls\bin\Debug\SpssLib.dll
+E:\Clue-Box Work\V.Studio\M2CerlsParsing\M2Cerls\bin\Debug\SpssLib.xml
+E:\Clue-Box Work\V.Studio\M2CerlsParsing\M2Cerls\obj\Debug\M2Cerls.csprojResolveAssemblyReference.cache
+E:\Projects-Mayora\M2CerlsParsing\M2Cerls\bin\Debug\M2Cerls.exe.config
+E:\Projects-Mayora\M2CerlsParsing\M2Cerls\obj\Debug\M2Cerls.exe
+E:\Projects-Mayora\M2CerlsParsing\M2Cerls\obj\Debug\M2Cerls.pdb
+E:\Projects-Mayora\M2CerlsParsing\M2Cerls\bin\Debug\M2Cerls.exe
+E:\Projects-Mayora\M2CerlsParsing\M2Cerls\bin\Debug\M2Cerls.pdb
+E:\Projects-Mayora\M2CerlsParsing\M2Cerls\bin\Debug\SpssLib.dll
+E:\Projects-Mayora\M2CerlsParsing\M2Cerls\bin\Debug\SpssLib.xml
+E:\Projects-Mayora\M2CerlsParsing\M2Cerls\obj\Debug\M2Cerls.csprojResolveAssemblyReference.cache
+E:\E\Projects-Mayora\M2CerlsParsing\M2Cerls\bin\Debug\M2Cerls.exe.config
+E:\E\Projects-Mayora\M2CerlsParsing\M2Cerls\obj\Debug\M2Cerls.exe
+E:\E\Projects-Mayora\M2CerlsParsing\M2Cerls\obj\Debug\M2Cerls.pdb
+E:\E\Projects-Mayora\M2CerlsParsing\M2Cerls\bin\Debug\M2Cerls.exe
+E:\E\Projects-Mayora\M2CerlsParsing\M2Cerls\bin\Debug\M2Cerls.pdb
+E:\E\Projects-Mayora\M2CerlsParsing\M2Cerls\bin\Debug\SpssLib.dll
+E:\E\Projects-Mayora\M2CerlsParsing\M2Cerls\bin\Debug\SpssLib.xml
+E:\E\Projects-Mayora\M2CerlsParsing\M2Cerls\obj\Debug\M2Cerls.csprojResolveAssemblyReference.cache
