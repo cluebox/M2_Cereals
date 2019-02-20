@@ -30,3 +30,13 @@ E:\E\Projects-Mayora\M2CerlsParsing\M2Cerls\bin\Debug\M2Cerls.pdb
 E:\E\Projects-Mayora\M2CerlsParsing\M2Cerls\bin\Debug\SpssLib.dll
 E:\E\Projects-Mayora\M2CerlsParsing\M2Cerls\bin\Debug\SpssLib.xml
 E:\E\Projects-Mayora\M2CerlsParsing\M2Cerls\obj\Debug\M2Cerls.csprojResolveAssemblyReference.cache
+D:\GitHub\Repo\M2_Cereals\M2Cerls\bin\Debug\M2Cerls.exe.config
+D:\GitHub\Repo\M2_Cereals\M2Cerls\bin\Debug\M2Cerls.exe
+D:\GitHub\Repo\M2_Cereals\M2Cerls\bin\Debug\M2Cerls.pdb
+D:\GitHub\Repo\M2_Cereals\M2Cerls\bin\Debug\SpssLib.dll
+D:\GitHub\Repo\M2_Cereals\M2Cerls\bin\Debug\SpssLib.xml
+D:\GitHub\Repo\M2_Cereals\M2Cerls\obj\Debug\M2Cerls.csprojAssemblyReference.cache
+D:\GitHub\Repo\M2_Cereals\M2Cerls\obj\Debug\M2Cerls.csproj.CoreCompileInputs.cache
+D:\GitHub\Repo\M2_Cereals\M2Cerls\obj\Debug\M2Cerls.csproj.CopyComplete
+D:\GitHub\Repo\M2_Cereals\M2Cerls\obj\Debug\M2Cerls.exe
+D:\GitHub\Repo\M2_Cereals\M2Cerls\obj\Debug\M2Cerls.pdb
